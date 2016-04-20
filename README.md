@@ -74,4 +74,4 @@ git push
 
 公式のマニュアルを読むのがいいかもしれません
 
-https://git-scm.com/book/ja/v2/
+https://git-scm.com/book/ja/v2
