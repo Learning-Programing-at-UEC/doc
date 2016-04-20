@@ -31,6 +31,21 @@ brew install git
 brew install git-lfs
 ```
 
+## linux
+### RHEL 7/CentOS 7
+```
+wget https://packagecloud.io/github/git-lfs/packages/el/7/git-lfs-1.2.0-1.el7.x86_64.rpm/download
+mv download git-lfs.rpm
+yum localinstall git-lfs
+git lfs install
+```
+### Debian 7
+```
+wget https://packagecloud.io/github/git-lfs/packages/debian/wheezy/git-lfs_1.2.0_amd64.deb/download
+mv download git-lfs.deb
+dpkg -i git-lfs.deb
+git lfs install
+```
 ****
 # gitの使い方
 
@@ -56,3 +71,7 @@ git push
 # GUIを使ってやりたい方
 
 適当に情報を探してやってみてください
+
+公式のマニュアルを読むのがいいかもしれません
+
+https://git-scm.com/book/ja/v2/
