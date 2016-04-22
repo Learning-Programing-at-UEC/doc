@@ -71,7 +71,9 @@ git push
 https://git-scm.com/book/ja/v2
 
 おすすめサイト:
+
 LearnGitBranching: http://pcottle.github.io/learnGitBranching
+
 tryGit: http://try.github.io/
 
 
