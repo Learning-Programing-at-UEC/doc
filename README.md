@@ -54,7 +54,7 @@ git lfs install
 git clone githubのレポジトリ
 ```
 
-# ファイルを更新したり追加したりした時
+## ファイルを更新したり追加したりした時
 
 基本的には以下のコマンドをセットで使います
 
@@ -66,7 +66,7 @@ git commit
 git push
 ```
 
-# 詳しい使い方
+## 詳しい使い方
 公式マニュアル:
 https://git-scm.com/book/ja/v2
 
@@ -75,6 +75,6 @@ LearnGitBranching: http://pcottle.github.io/learnGitBranching
 tryGit: http://try.github.io/
 
 
-# GUIを使ってやりたい方
+## GUIを使ってやりたい方
 
 適当に情報を探してやってみてください
